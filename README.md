@@ -6,3 +6,4 @@ Homework assignments for the course on Coursera
 2. https://lolitaflamme.github.io/coursera-web-development/module3-solution/
 3. https://lolitaflamme.github.io/coursera-web-development/module4-solution/
 4. https://lolitaflamme.github.io/coursera-web-development/module5-solution/
+5. https://lolitaflamme.github.io/coursera-web-development/module5-solution/
